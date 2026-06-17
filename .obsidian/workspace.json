@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "eb29183a51c57909",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2796cf0ee1a72e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79e551b76cfdae05",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a57c7e91ffe81e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "804043f6d35543a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a49fad94c62b6a20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "01803c120da4b3ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "c6c9192af280945e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d5fa2ff978584765",
+    "type": "split",
+    "children": [
+      {
+        "id": "23a39c57f7887923",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "560fc5a9c3163438",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ЕГЭ. 75 тем.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для ЕГЭ. 75 тем"
+            }
+          },
+          {
+            "id": "3f35be27be652c42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "1808451c0bddb5d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e5936827064f3508",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "3755de32335b6e5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "79e551b76cfdae05",
+  "lastOpenFiles": [
+    "my obsidian projects/ЕГЭ ОБЩЕСТВОЗНАНИЕ.md",
+    "ЧЕЛОВЕК И ОБЩЕСТВО.md",
+    "my obsidian projects",
+    "OBSIDIAN/ЕГЭ ОБЩЕСТВОЗНАНИЕ.md",
+    "OBSIDIAN",
+    "ЕГЭ. 75 тем.md",
+    "Без названия 3.base",
+    "Без названия 2.base",
+    "Без названия.md",
+    "Без названия 1.base",
+    "2026-06-17.md",
+    "социология.md",
+    "Без названия 1.canvas",
+    "Без названия.base",
+    "Добро пожаловать.md",
+    "Без названия.canvas"
+  ]
+}
